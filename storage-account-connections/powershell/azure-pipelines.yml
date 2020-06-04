@@ -1,6 +1,6 @@
 variables: 
   location: westus
-  groupId: cse01
+  groupId: devops_case_test
   abbrevLocationName: westus
   instanceCount: 1
   identifier: sample-storage-conn
